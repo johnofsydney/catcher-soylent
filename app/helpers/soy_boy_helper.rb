@@ -1,0 +1,2 @@
+module SoyBoyHelper
+end

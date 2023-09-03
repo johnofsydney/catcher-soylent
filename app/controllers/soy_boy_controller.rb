@@ -1,0 +1,2 @@
+class SoyBoyController < ApplicationController
+end
